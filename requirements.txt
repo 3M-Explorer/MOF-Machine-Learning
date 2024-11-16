@@ -1,0 +1,16 @@
+# Core libraries for data manipulation and numerical computation
+pandas==2.2.2   # High-performance data manipulation and analysis library
+numpy==1.26.4   # Library for numerical computations and array operations
+
+# Visualization libraries for creating plots and charts
+matplotlib==3.8.0   # Comprehensive library for static, animated, and interactive visualizations
+seaborn==0.13.2     # Statistical data visualization library built on top of matplotlib
+
+# Machine learning library for data preprocessing, model training, and evaluation
+scikit-learn==1.5.2   # Widely used machine learning library with tools for predictive modeling
+
+# Gradient boosting algorithm for regression and classification
+xgboost==2.1.2   # Optimized distributed gradient boosting library
+
+# Automated machine learning tool for creating ML pipelines
+tpot==0.12.2   # Automated machine learning library for pipeline optimization
